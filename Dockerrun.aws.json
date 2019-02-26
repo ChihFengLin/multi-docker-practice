@@ -24,7 +24,7 @@
         },
         {
             "name": "nginx",
-            "image": "chihfnl/multi-nginx",
+            "image": "chihfenl/multi-nginx",
             "hostname": "nginx",
             "essential": true,
             "portMappings": [
